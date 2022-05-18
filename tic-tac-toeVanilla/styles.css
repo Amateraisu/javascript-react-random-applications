@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.turn {
+    color: lightgrey;
+    margin-bottom: 50px;
+    font-size: 30px;
+
+}
+
+.wrapper {
+    background-color: grey;
+    height: 500px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.restartButton {
+    margin-top: 20px;
+    display: none;
+
+}
+
+
+.bodyContainer {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+    background: lightgray;
+    flex-wrap: wrap;
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    
+    
+    
+    
+}
+
+
+
