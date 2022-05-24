@@ -1,6 +1,7 @@
 # javascript-react-random-applications
 Vanilla: built using plain javascript 
 Others: built using react 
+Do note that these are simply javascript / react practices and functionalities, not much is focused on the css
 
 
 1. Stopwatch Vanilla: https://ghoststopwatch.netlify.app/
